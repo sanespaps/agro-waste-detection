@@ -1,0 +1,6 @@
+datasets/
+kaggle/kaggle.json
+*.pth
+*.pt
+*.h5
+*.ckpt

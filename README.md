@@ -1,1 +1,6 @@
-# agro-waste-detection
+\# Rost Project
+
+
+
+Проект по обучению нейросети.
+
